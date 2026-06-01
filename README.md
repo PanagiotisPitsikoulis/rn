@@ -10,23 +10,24 @@ Users can sign up, browse theatres and shows, choose showtimes, reserve seats, a
 
 ## Screenshots
 
+![App screenshot 1](project/docs/media/screen-01.webp)
+
 <p>
-  <img src="project/docs/media/screen-01.webp" alt="App screenshot 1" width="32%">
   <img src="project/docs/media/screen-02.webp" alt="App screenshot 2" width="32%">
   <img src="project/docs/media/screen-03.webp" alt="App screenshot 3" width="32%">
+  <img src="project/docs/media/screen-04.webp" alt="App screenshot 4" width="32%">
 </p>
 <p>
-  <img src="project/docs/media/screen-04.webp" alt="App screenshot 4" width="32%">
   <img src="project/docs/media/screen-05.webp" alt="App screenshot 5" width="32%">
   <img src="project/docs/media/screen-06.webp" alt="App screenshot 6" width="32%">
+  <img src="project/docs/media/screen-07.webp" alt="App screenshot 7" width="32%">
 </p>
 <p>
-  <img src="project/docs/media/screen-07.webp" alt="App screenshot 7" width="32%">
   <img src="project/docs/media/screen-08.webp" alt="App screenshot 8" width="32%">
   <img src="project/docs/media/screen-09.webp" alt="App screenshot 9" width="32%">
+  <img src="project/docs/media/screen-10.webp" alt="App screenshot 10" width="32%">
 </p>
 <p>
-  <img src="project/docs/media/screen-10.webp" alt="App screenshot 10" width="32%">
   <img src="project/docs/media/screen-11.webp" alt="App screenshot 11" width="32%">
 </p>
 
