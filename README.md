@@ -4,6 +4,10 @@ Opinionated Expo React Native starter with custom auth, a native UI library, and
 
 The included sample is a mobile theatre reservation app built with Expo React Native, Express, MariaDB, Bun, and Turborepo. Users can sign up, browse theatres and shows, choose showtimes, reserve seats, and view booking history. The API can run with MariaDB or with seeded in-memory data for demos.
 
+## Demo
+
+<img src="presentation/video.webp" alt="Mobile app demo" width="320">
+
 ## Screenshots
 
 ![App screenshot 1](project/docs/media/screen-01.webp)
