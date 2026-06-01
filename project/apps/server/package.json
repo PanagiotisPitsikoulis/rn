@@ -11,7 +11,9 @@
     "lint": "node --check src/index.js && node --check src/app.js",
     "typecheck": "node --check src/index.js && node --check src/app.js",
     "test": "node --test",
-    "db:schema": "node scripts/print-schema.js"
+    "seed": "node scripts/seed.js",
+    "db:schema": "node scripts/print-schema.js",
+    "db:seed": "node scripts/seed.js"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",

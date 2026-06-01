@@ -65,6 +65,10 @@ export type PreviewEntry = {
   render: () => ReactNode;
 };
 
+export default function ComponentPreviewsMetaRoute() {
+  return null;
+}
+
 /** Trigger wrapper for menus/sheets so the open state is reachable from inline. */
 function Toggleable({
   children,

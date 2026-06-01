@@ -18,7 +18,9 @@
     "test": "turbo test",
     "lint": "turbo lint",
     "typecheck": "turbo typecheck",
-    "db:schema": "bun --filter @cn6035/server db:schema"
+    "seed": "bun --filter @cn6035/server seed",
+    "db:schema": "bun --filter @cn6035/server db:schema",
+    "db:seed": "bun --filter @cn6035/server db:seed"
   },
   "devDependencies": {
     "@types/react": "~19.2.15",

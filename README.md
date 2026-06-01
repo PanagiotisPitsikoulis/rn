@@ -4,10 +4,6 @@ Mobile theatre reservation app built with Expo React Native, Express, MariaDB, B
 
 Users can sign up, browse theatres and shows, choose showtimes, reserve seats, and view booking history. The API can run with MariaDB or with seeded in-memory data for demos.
 
-## Demo
-
-[![Mobile app demo](project/docs/media/demo-poster.webp)](project/docs/media/demo.mp4)
-
 ## Screenshots
 
 ![App screenshot 1](project/docs/media/screen-01.webp)

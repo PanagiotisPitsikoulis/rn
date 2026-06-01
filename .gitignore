@@ -7,6 +7,8 @@ node_modules
 dist
 coverage
 *.tsbuildinfo
+submit.zip
+.submit-staging/
 
 # Local config
 .env
