@@ -1,6 +1,6 @@
 import mysql from "mysql2/promise";
 import { randomUUID } from "node:crypto";
-import { RESERVATION_STATUS } from "@cn6035/shared";
+import { RESERVATION_STATUS } from "@expo-starter/shared";
 
 export function createMariaDbStore(databaseUrl) {
   const pool = mysql.createPool(databaseUrl);

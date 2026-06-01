@@ -1,5 +1,5 @@
 import { randomUUID } from "node:crypto";
-import { RESERVATION_STATUS } from "@cn6035/shared";
+import { RESERVATION_STATUS } from "@expo-starter/shared";
 
 function seedData() {
   const theatres = [

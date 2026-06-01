@@ -1,5 +1,5 @@
 {
-  "name": "cn6035-theatre-booking",
+  "name": "expo-full-stack-mobile-starter",
   "version": "1.0.0",
   "license": "MIT",
   "private": true,
@@ -13,15 +13,15 @@
   ],
   "scripts": {
     "dev": "turbo dev",
-    "dev:server": "bun --filter @cn6035/server dev",
-    "dev:mobile": "bun --filter @cn6035/mobile dev",
+    "dev:server": "bun --filter @expo-starter/server dev",
+    "dev:mobile": "bun --filter @expo-starter/mobile dev",
     "build": "turbo build",
     "test": "turbo test",
     "lint": "turbo lint",
     "typecheck": "turbo typecheck",
-    "seed": "bun --filter @cn6035/server seed",
-    "db:schema": "bun --filter @cn6035/server db:schema",
-    "db:seed": "bun --filter @cn6035/server db:seed"
+    "seed": "bun --filter @expo-starter/server seed",
+    "db:schema": "bun --filter @expo-starter/server db:schema",
+    "db:seed": "bun --filter @expo-starter/server db:seed"
   },
   "devDependencies": {
     "@types/react": "~19.2.15",

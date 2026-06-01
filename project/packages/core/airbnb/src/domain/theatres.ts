@@ -1,6 +1,6 @@
 /**
  * Theatres domain — theaters, shows, showtimes, seats, and reservations.
- * Matches the CN6035 assignment shape so a native client can browse
+ * Matches the full-stack starter sample shape so a native client can browse
  * venues, view showtimes, pick seats, and book.
  */
 

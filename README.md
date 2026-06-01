@@ -1,4 +1,4 @@
-# CN6035 Theatre Booking
+# Expo Full-Stack Mobile Starter
 
 Opinionated Expo React Native starter with custom auth, a native UI library, and a fully typed Turborepo + API monorepo.
 
@@ -72,7 +72,7 @@ bun run db:schema
 ```
 
 ```text
-DATABASE_URL=mysql://cn6035:<password>@localhost:3306/cn6035_theatre
+DATABASE_URL=mysql://expo_starter:<password>@localhost:3306/expo_mobile_starter
 ```
 
 ## Workspace

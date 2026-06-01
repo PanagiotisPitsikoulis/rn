@@ -1,5 +1,5 @@
 {
-  "name": "@cn6035/server",
+  "name": "@expo-starter/server",
   "version": "1.0.0",
   "license": "MIT",
   "private": true,
@@ -17,6 +17,7 @@
     "db:seed": "node scripts/seed.js"
   },
   "dependencies": {
+    "@expo-starter/shared": "workspace:*",
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",

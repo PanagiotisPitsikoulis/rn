@@ -5,5 +5,5 @@ import { createApp } from "./app.js";
 const app = createApp();
 
 app.listen(env.port, env.host, () => {
-  console.log(`CN6035 API listening on http://${env.host}:${env.port} (${store.mode} mode)`);
+  console.log(`Expo starter API listening on http://${env.host}:${env.port} (${store.mode} mode)`);
 });
